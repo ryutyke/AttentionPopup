@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AttentionPopup",
+	"Description": "Focus Mode: checks concentration by popping quiz randomly in the Editor.",
+	"Category": "Other",
+	"CreatedBy": "Enum-dle",
+	"CreatedByURL": "https://ryutyke.github.io/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AttentionPopup",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
